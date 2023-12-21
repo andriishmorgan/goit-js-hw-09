@@ -5,7 +5,7 @@ import"./assets/modulepreload-polyfill-ec808ebb.js";import{S as a}from"./assets/
             src="${p}" 
             alt="${i}"
             width="360"
-            height-"200" 
+            height="200" 
             />
     </a>
 </li>`).join("");new a(".gallery a",{captionsData:"alt",captionDelay:250});
