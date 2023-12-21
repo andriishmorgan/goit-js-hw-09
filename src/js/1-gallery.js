@@ -78,7 +78,7 @@ item.innerHTML = images.map(({ preview, original, description }) =>
             src="${preview}" 
             alt="${description}"
             width="360"
-            height-"200" 
+            height="200" 
             />
     </a>
 </li>`).join('')
